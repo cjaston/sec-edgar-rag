@@ -1,0 +1,272 @@
+{
+  "AAPL": {
+    "industry": "Electronic Computers",
+    "sector": "tech",
+    "sic": "3571"
+  },
+  "ABBV": {
+    "industry": "Pharmaceutical Preparations",
+    "sector": "pharma",
+    "sic": "2834"
+  },
+  "ADBE": {
+    "industry": "Services-Prepackaged Software",
+    "sector": "tech",
+    "sic": "7372"
+  },
+  "AMD": {
+    "industry": "Semiconductors & Related Devices",
+    "sector": "tech",
+    "sic": "3674"
+  },
+  "AMZN": {
+    "industry": "Retail-Catalog & Mail-Order Houses",
+    "sector": "consumer",
+    "sic": "5961"
+  },
+  "AXP": {
+    "industry": "Finance Services",
+    "sector": "finance",
+    "sic": "6199"
+  },
+  "BA": {
+    "industry": "Aircraft",
+    "sector": "industrial",
+    "sic": "3721"
+  },
+  "BAC": {
+    "industry": "National Commercial Banks",
+    "sector": "finance",
+    "sic": "6021"
+  },
+  "BLK": {
+    "industry": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "finance",
+    "sic": "6211"
+  },
+  "BRK": {
+    "industry": "Fire, Marine & Casualty Insurance",
+    "sector": "finance",
+    "sic": "6331"
+  },
+  "CAT": {
+    "industry": "Construction Machinery & Equip",
+    "sector": "tech",
+    "sic": "3531"
+  },
+  "CMCSA": {
+    "industry": "Cable & Other Pay Television Services",
+    "sector": "telecom",
+    "sic": "4841"
+  },
+  "COST": {
+    "industry": "Retail-Variety Stores",
+    "sector": "consumer",
+    "sic": "5331"
+  },
+  "CRM": {
+    "industry": "Services-Prepackaged Software",
+    "sector": "tech",
+    "sic": "7372"
+  },
+  "CSCO": {
+    "industry": "Computer Communications Equipment",
+    "sector": "tech",
+    "sic": "3576"
+  },
+  "CVX": {
+    "industry": "Petroleum Refining",
+    "sector": "energy",
+    "sic": "2911"
+  },
+  "DE": {
+    "industry": "Farm Machinery & Equipment",
+    "sector": "tech",
+    "sic": "3523"
+  },
+  "DIS": {
+    "industry": "Services-Miscellaneous Amusement & Recreation",
+    "sector": "consumer",
+    "sic": "7990"
+  },
+  "GE": {
+    "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+    "sector": "tech",
+    "sic": "3600"
+  },
+  "GOOG": {
+    "industry": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "tech",
+    "sic": "7370"
+  },
+  "GS": {
+    "industry": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "finance",
+    "sic": "6211"
+  },
+  "HD": {
+    "industry": "Retail-Lumber & Other Building Materials Dealers",
+    "sector": "consumer",
+    "sic": "5211"
+  },
+  "IBM": {
+    "industry": "Computer & office Equipment",
+    "sector": "tech",
+    "sic": "3570"
+  },
+  "INTC": {
+    "industry": "Semiconductors & Related Devices",
+    "sector": "tech",
+    "sic": "3674"
+  },
+  "JNJ": {
+    "industry": "Pharmaceutical Preparations",
+    "sector": "pharma",
+    "sic": "2834"
+  },
+  "JPM": {
+    "industry": "National Commercial Banks",
+    "sector": "finance",
+    "sic": "6021"
+  },
+  "KO": {
+    "industry": "Beverages",
+    "sector": "consumer",
+    "sic": "2080"
+  },
+  "LLY": {
+    "industry": "Pharmaceutical Preparations",
+    "sector": "pharma",
+    "sic": "2834"
+  },
+  "LMT": {
+    "industry": "Guided Missiles & Space Vehicles & Parts",
+    "sector": "industrial",
+    "sic": "3760"
+  },
+  "MA": {
+    "industry": "Services-Business Services, NEC",
+    "sector": "tech",
+    "sic": "7389"
+  },
+  "MCD": {
+    "industry": "Retail-Eating  Places",
+    "sector": "consumer",
+    "sic": "5812"
+  },
+  "META": {
+    "industry": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "tech",
+    "sic": "7370"
+  },
+  "MRK": {
+    "industry": "Pharmaceutical Preparations",
+    "sector": "pharma",
+    "sic": "2834"
+  },
+  "MS": {
+    "industry": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "finance",
+    "sic": "6211"
+  },
+  "MSFT": {
+    "industry": "Services-Prepackaged Software",
+    "sector": "tech",
+    "sic": "7372"
+  },
+  "NFLX": {
+    "industry": "Services-Video Tape Rental",
+    "sector": "consumer",
+    "sic": "7841"
+  },
+  "NKE": {
+    "industry": "Rubber & Plastics Footwear",
+    "sector": "consumer",
+    "sic": "3021"
+  },
+  "NVDA": {
+    "industry": "Semiconductors & Related Devices",
+    "sector": "tech",
+    "sic": "3674"
+  },
+  "ORCL": {
+    "industry": "Services-Prepackaged Software",
+    "sector": "tech",
+    "sic": "7372"
+  },
+  "PEP": {
+    "industry": "Beverages",
+    "sector": "consumer",
+    "sic": "2080"
+  },
+  "PFE": {
+    "industry": "Pharmaceutical Preparations",
+    "sector": "pharma",
+    "sic": "2834"
+  },
+  "PG": {
+    "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+    "sector": "pharma",
+    "sic": "2840"
+  },
+  "RTX": {
+    "industry": "Aircraft Engines & Engine Parts",
+    "sector": "industrial",
+    "sic": "3724"
+  },
+  "SBUX": {
+    "industry": "Retail-Eating & Drinking Places",
+    "sector": "consumer",
+    "sic": "5810"
+  },
+  "T": {
+    "industry": "Telephone Communications (No Radiotelephone)",
+    "sector": "telecom",
+    "sic": "4813"
+  },
+  "TGT": {
+    "industry": "Retail-Variety Stores",
+    "sector": "consumer",
+    "sic": "5331"
+  },
+  "TMO": {
+    "industry": "Measuring & Controlling Devices, NEC",
+    "sector": "tech",
+    "sic": "3829"
+  },
+  "TSLA": {
+    "industry": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "industrial",
+    "sic": "3711"
+  },
+  "UNH": {
+    "industry": "Hospital & Medical Service Plans",
+    "sector": "finance",
+    "sic": "6324"
+  },
+  "UPS": {
+    "industry": "Trucking & Courier Services (No Air)",
+    "sector": "industrial",
+    "sic": "4210"
+  },
+  "V": {
+    "industry": "Services-Business Services, NEC",
+    "sector": "tech",
+    "sic": "7389"
+  },
+  "VZ": {
+    "industry": "Telephone Communications (No Radiotelephone)",
+    "sector": "telecom",
+    "sic": "4813"
+  },
+  "WMT": {
+    "industry": "Retail-Variety Stores",
+    "sector": "consumer",
+    "sic": "5331"
+  },
+  "XOM": {
+    "industry": "Petroleum Refining",
+    "sector": "energy",
+    "sic": "2911"
+  }
+}
