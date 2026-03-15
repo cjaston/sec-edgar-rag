@@ -9,13 +9,21 @@ fi
 
 source venv/bin/activate
 
-if [ -f "app.py" ]; then
-    echo "Launching SEC Filing Research Tool..."
-    echo "The app will open in your browser automatically."
+if [ "$1" = "--cli" ]; then
+    shift
+    python scripts/query.py "$@"
+elif [ "$1" = "--ui" ] || [ -z "$1" ]; then
     echo ""
-    streamlit run app.py
+    echo "  Launching SEC Filing Research Tool..."
+    echo "  The app will open in your browser at http://localhost:8501"
+    echo ""
+    echo "  Options:"
+    echo "    ./run.sh          Open web UI (default)"
+    echo "    ./run.sh --cli    Command-line interface"
+    echo "    ./run.sh --cli -v CLI with verbose pipeline"
+    echo ""
+    streamlit run src/ui/app.py --server.headless true
 else
-    echo "Launching SEC Filing Research Tool (CLI)..."
-    echo ""
+    # Pass flags like -v or --role directly to CLI
     python scripts/query.py "$@"
 fi

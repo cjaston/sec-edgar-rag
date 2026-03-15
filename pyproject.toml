@@ -1,5 +1,5 @@
 [project]
-name = "edgar-rag"
+name = "sec-edgar-rag"
 version = "1.0.0"
 description = "AI-powered research assistant for SEC EDGAR filings"
 readme = "README.md"
